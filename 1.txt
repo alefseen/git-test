@@ -13,3 +13,5 @@ build output directories, such as /bin, /out, or /target
 files generated at runtime, such as .log, .lock, or .tmp
 hidden system files, such as .DS_Store or Thumbs.db
 personal IDE config files, such as .idea/workspace.xml
+
+modify this line
